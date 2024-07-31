@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 <p>
-I'm a frontend developer with a love for crafting intuitive and dynamic user interfaces. My journey in web development has been driven by a passion for coding and a desire to continuously learn and grow in the tech space. 
+I'm a frontend developer with a Diploma in Full Stack Software Development (Advanced Front End) passionate about creating engaging and user-friendly interfaces. With a focus on leveraging modern technologies and design principles, I strive to build responsive web applications that deliver exceptional user experiences.
 </p>
 
 <p>
-Currently, I'm focused on building responsive web applications using modern technologies and frameworks.
+Always eager to learn and explore new challenges, I'm dedicated to growing my skills 
 </p>
 
 - 📫 How to reach me **Antonake@icloud.com**
