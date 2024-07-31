@@ -57,7 +57,7 @@ Always eager to learn and explore new challenges, I'm dedicated to growing my sk
       <li>Technologies: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/> Bootstrap, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL</li>
       <li>Description: Developed an online marketplace where users can engage in discussions, share market insights, and access real-time data. Implemented features for user authentication and responsive design using Bootstrap, with PostgreSQL as the database for managing user data and interactions.</li>
       <li>Link: <a href="https://github.com/AntonEi/marketmingle" target="_blank">View on GitHub</a></li>
-      <li>Live Site: <a href="https://your-live-site-link" target="_blank">MarketMingle</a></li>
+      <li>Live Site: <a href="https://marketmingle-d94891f1357b.herokuapp.com/" target="_blank">MarketMingle</a></li>
     </ul>
   </li>
   <li>
@@ -66,7 +66,7 @@ Always eager to learn and explore new challenges, I'm dedicated to growing my sk
       <li>Technologies: <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="20" height="20"/> Materialize, <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> Django, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL</li>
       <li>Description: Built a dynamic platform that integrates real-time data fetching and interactive features to help users track and manage stock market triggers effectively. Utilized Materialize for a responsive design and Django with Python for the backend to handle data processing and user interactions.</li>
       <li>Link: <a href="https://github.com/AntonEi/TriggerStocks" target="_blank">View on GitHub</a></li>
-      <li>Live Site: <a href="https://your-live-site-link" target="_blank">TriggerStocks</a></li>
+      <li>Live Site: <a href="https://stocktriggers-dffa3b7c370b.herokuapp.com/" target="_blank">TriggerStocks</a></li>
     </ul>
   </li>
   <li>
@@ -75,7 +75,7 @@ Always eager to learn and explore new challenges, I'm dedicated to growing my sk
       <li>Technologies: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> HTML5, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS3</li>
       <li>Description: Created an engaging browser game featuring characters and elements from the Harry Potter series. The game includes interactive gameplay with quizzes and animations, providing a fun and immersive experience.</li>
       <li>Link: <a href="https://github.com/AntonEi/Harry-Potter-game" target="_blank">View on GitHub</a></li>
-      <li>Live Site: <a href="https://your-live-site-link" target="_blank">Harry's Magical Jump Quest</a></li>
+      <li>Live Site: <a href="https://antonei.github.io/Harry-Potter-game/" target="_blank">Harry's Magical Jump Quest</a></li>
     </ul>
   </li>
   <li>
@@ -84,7 +84,7 @@ Always eager to learn and explore new challenges, I'm dedicated to growing my sk
       <li>Technologies: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20" height="20"/> HTML5, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS3</li>
       <li>Description: Developed a guide application providing detailed information on ski resorts, gear recommendations, and skiing techniques. The platform is designed to offer valuable insights and enhance the skiing experience for users at all skill levels.</li>
       <li>Link: <a href="https://github.com/AntonEi/Skier-s-Guide" target="_blank">View on GitHub</a></li>
-      <li>Live Site: <a href="https://your-live-site-link" target="_blank">Skier's Guide</a></li>
+      <li>Live Site: <a href="https://antonei.github.io/Skier-s-Guide/" target="_blank">Skier's Guide</a></li>
     </ul>
   </li>
 </ul>
